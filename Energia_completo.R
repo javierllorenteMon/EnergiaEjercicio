@@ -134,8 +134,16 @@ df_para_rusia2 <- cbind(gasto_division[, 1], consumo_medio_ruido)
 
 
 
+
+
+
+
+
+
+
 #Esto es el cambio de limpieza
 
 
 #Este es el cambio de privacidad
+#Este es el cambio de transformacion
 
