@@ -1,0 +1,16 @@
+Version: 1.0
+ProjectId: c334c750-592b-4b49-b30b-c3559ae36422
+
+RestoreWorkspace: Default
+SaveWorkspace: Default
+AlwaysSaveHistory: Default
+
+EnableCodeIndexing: Yes
+UseSpacesForTab: Yes
+NumSpacesForTab: 2
+Encoding: UTF-8
+
+RnwWeave: Sweave
+LaTeX: pdfLaTeX
+
+ProjectName: EjercicioEnergiaPRueba
